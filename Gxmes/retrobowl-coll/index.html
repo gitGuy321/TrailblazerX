@@ -119,14 +119,13 @@
 
     <!-- Builtin injector for injecting runner path -->
 
-
-    <!-- NO POKI -->
-    <!-- <script>window.onload = GameMaker_Init;</script> -->
-
-    <!-- YES POKI -->
-    <!-- Poki start -->
-
-    <!-- Poki end -->
+<script>
+window.addEventListener("load", function () {
+    window.PokiSDK = null;
+    window.PokiSDK_OK = false;
+    GameMaker_Init();
+});
+</script>
 
     <!-- Builtin injector for injecting google analytics code -->
 
