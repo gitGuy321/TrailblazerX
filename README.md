@@ -1,16 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+Next+Generation+Of+Unblocked;Redefying+The+Word+Unblocked;For+School%2FWork)](https://git.io/typing-svg)
 
-# Introducing TrailblazerX
-The next generation unblocked game websites!
+# TrailblazerX
+A collection of online games all in one place!
 
 
-TrailblazerX, also known as a static unblocked gaming website, has a built-in proxy, With a ton of games.
+TrailblazerX is a static unblocked gaming website with a WIP proxy, and games.
 
-This is the new and improved version of my old website ProxyNetWeb. There will be credits for this website at the bottem of the page.
+This is a forked project that has been modified with new content and fixes.
 
 ## Info
-- You may fork if you would like as long as you follow the don't be a dick license.
-- This project is NOT finished so dont expect too much
+- All content is WIP.
+- I know the original creator
 
 ## Features
 - Simple design!
